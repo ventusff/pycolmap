@@ -5,7 +5,7 @@ import numpy as np
 import os
 import struct
 
-from collections import OrderedDict
+from collections import OrderedDict, defaultdict
 from itertools import combinations
 
 from camera import Camera
